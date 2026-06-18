@@ -34,14 +34,7 @@ This safety system monitors crane load conditions and physical positioning limit
 
 ## 🗺️ Circuit Schematic Diagram
 
-<p align="center">
-  <img src="schematic.png" alt="Industrial Crane Safety Guard Proteus Schematic" width="800">
-</p>
-
-*Note: To display your schematic here, take a screenshot of your finished Proteus circuit layout, save it exactly as `schematic.png`, and upload it into the root directory of this repository.*
-
----
-
+![image alt](https://github.com/annabiju26-alt/Industrial--Crane--Load-Collision--Safety-Guard/blob/8d7e3aea7230eb406504075b1d637284f44eb7f5/crane.png)
 ##  Project Logic & State-Machine Architecture
 The safety application utilizes an Event-Driven Finite State Machine (FSM) driven by a central tracking variable:
 
